@@ -159,5 +159,5 @@ I'm particularly interested in building systems where **mechanical engineering, 
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Mohamed Elemawy]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-elemawy-974b47215/))
+- LinkedIn: [Mohamed Elemawy](https://www.linkedin.com/in/mohamed-elemawy-974b47215/)
 - GitHub: [Emawy](https://github.com/Emawy)
