@@ -15,7 +15,7 @@ Developed an autonomous mobile robot that used camera input and OpenCV color det
 
 - Integrated vision processing, motor control, ultrasonic sensing, and a servo-operated gripper.
 - Combined perception and physical actuation to perform an autonomous competition task.
-- Achieved **3rd Place in the AIRC Competition**.
+- Achieved **3rd Place**
 
 [Project documentation](projects/ai-ball-chasing-robot/) — source code and media uploads pending.
 
