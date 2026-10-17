@@ -1,163 +1,92 @@
-# Mohamed Elemawy
+# Mohamed El Emawy
 
-### Mechatronics Engineer | Robotics & AI Systems | Computer Vision | Embedded Systems
+### Mechatronics Engineer | Robotics, Computer Vision & Embedded Systems
 
-I'm a Mechatronics Engineering graduate focused on building intelligent systems that combine mechanical engineering, electronics, embedded systems, robotics, and artificial intelligence.
+I build mechatronic systems that connect software, electronics, and mechanical hardware. My projects include a vision-guided autonomous robot, a coffee-making robotic arm, and a forced-flow wind tunnel.
 
-I have hands-on experience developing robotics and embedded projects using microcontrollers, computer vision, sensors, actuators, and motor-control systems. I also have professional experience in heavy industrial projects, including mechanical installation, commissioning, site coordination, and maintenance.
+My background combines hands-on robotics projects, AI training, and industrial engineering experience in design, commissioning, and maintenance. I’m developing my Linux, modern C++, control, and ROS 2 skills to pursue **Robotics & AI Engineering** roles focused on intelligent physical systems.
 
-Currently, I'm strengthening my skills in **C++, Linux, robotics control, and ROS 2** to transition into Robotics & AI Systems Engineering.
+## Featured Projects
 
----
+### AI Ball-Chasing Autonomous Robot
+**OpenCV · Python · ESP32-CAM · Embedded Control**
 
-## 🚀 Featured Projects
+Developed an autonomous mobile robot that used camera input and OpenCV color detection to locate a ball and guide movement through embedded motor control.
 
-### 🤖 AI Ball-Chasing Autonomous Robot
+- Integrated vision processing, motor control, ultrasonic sensing, and a servo-operated gripper.
+- Combined perception and physical actuation to perform an autonomous competition task.
+- Achieved **3rd Place in the AIRC Competition**.
 
-Autonomous mobile robot developed using an ESP32-CAM, OpenCV, ultrasonic sensing, and motor control.
+[Project documentation](projects/ai-ball-chasing-robot/) — source code and media uploads pending.
 
-- Real-time color detection and tracking
-- Computer vision using OpenCV
-- Autonomous movement
-- Ultrasonic obstacle detection
-- ESP32-CAM and embedded control
-- Custom 3D-printed chassis
-- 🏆 3rd Place — AIRC Competition
+### Smart Barista Robotic Arm
+**Robotic Manipulation · Servo Control · Sensors & Actuators**
 
-[View Project →](#)
+Developed a coffee-making automation project using a 6-DOF robotic arm, programmed motion sequences, and sensor-triggered dispensing.
 
----
+- Integrated servo control, ultrasonic sensing, and a relay-controlled water pump.
+- Worked on mechanical positioning, actuator calibration, and hardware integration.
 
-### ☕ Smart Barista Robotic Arm
+[Project documentation](projects/smart-barista/) — source code and media uploads pending.
 
-A 6-DOF robotic arm designed to automate coffee preparation.
+### Forced-Flow Blower Wind Tunnel
+**Graduation Project · Mechanical Design · Flow Conditioning**
 
-- 6-DOF robotic mechanism
-- Servo motor control
-- ESP8266 NodeMCU
-- Ultrasonic sensing
-- Relay-controlled water pump
-- Mechanical and electrical system integration
+Contributed to the design and development of a forced-flow wind tunnel, connecting mechanical design with fabrication and assembly.
 
-[View Project →](#)
+- Incorporated screens and honeycomb flow straighteners for flow conditioning.
+- Worked on engineering considerations for airflow uniformity and pressure distribution.
 
----
+[Project documentation](projects/wind-tunnel/) — design files and evidence uploads pending.
 
-### 🌬️ Forced-Flow Blower Wind Tunnel
+## Technical Background
 
-Graduation project involving the design and development of a forced-flow wind tunnel.
+| Area | Technologies and experience |
+|---|---|
+| Robotics & embedded projects | Arduino, ESP32-CAM, ESP8266, motor drivers, servo motors, sensors, actuators |
+| Computer vision | Python, OpenCV, color-based detection |
+| AI & machine-learning training | PyTorch, TensorFlow, scikit-learn, NumPy, pandas, Matplotlib |
+| Engineering tools | SolidWorks, EPLAN, AutoCAD, MATLAB |
+| Automation training | PLC fundamentals, classic control, motor drive systems |
 
-- Mechanical system design
-- Forced-flow air system
-- Screens and honeycomb flow straighteners
-- Experimental testing
-- Mechanical fabrication and assembly
+## Professional Experience
 
-[View Project →](#)
+### Mechatronics Technical Office Engineer — International Crane Factory
+**October 2026–Present**
 
----
+- Prepare mechanical parts and engineering drawings using SolidWorks.
+- Work on electrical control-panel drawings using EPLAN.
+- Support technical-office work and resolve client technical queries.
 
-## 🛠️ Technical Skills
+### Junior Mechanical Site Engineer — Intermaint Construction
+**January–September 2026**
 
-### Programming & Software
-- Python
-- C++
-- MATLAB
-- Git & GitHub
+- Supported mechanical installation, commissioning, and maintenance in heavy industrial environments.
+- Took assigned site and shift responsibility, coordinating technicians and communicating with clients and consultants.
+- Worked with conveyors, hydraulic systems, steel structures, and industrial equipment.
 
-### Robotics & Embedded Systems
-- Arduino
-- ESP32 / ESP32-CAM
-- ESP8266 / NodeMCU
-- Microcontrollers
-- Servo Motors
-- DC Motors
-- Motor Drivers
-- Sensors & Actuators
-- Embedded Systems
-
-### AI & Computer Vision
-- OpenCV
-- TensorFlow
-- PyTorch
-- scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-
-### Engineering & Automation
-- SolidWorks
-- AutoCAD
-- Control Systems
-- PLC Basics
-- Motor Drive Systems
-- Industrial Automation
-- Mechanical Systems
-- 3D Printing
-
----
-
-## 📚 Currently Learning
-
-I'm currently building a stronger foundation for professional robotics development:
-
-- 🐧 Linux for Robotics
-- 💻 Modern C++
-- 🤖 Robotics Fundamentals
-- 🎛️ Control Systems
-- 🦾 ROS 2
-- 👁️ Computer Vision for Robotics
-- 🔧 Git & Software Development Practices
-
----
-
-## 🎓 Education & Training
+## Education & Training
 
 **B.Sc. in Mechatronics Engineering**  
 Arab Academy for Science, Technology & Maritime Transport — 2025
 
-**Artificial Intelligence Diploma**  
-Edozah × Aitronix
+**Artificial Intelligence Diploma — Completed**  
+Training in machine learning, deep learning, Python tools, and software-engineering fundamentals.
 
-Additional training in:
+**Additional training:** PLC and classic control, motor drive systems, automotive engineering, and SolidWorks.
 
-- PLC & Motor Drive Systems
-- Industrial Automation
-- Automotive Engineering
-- SolidWorks
+## Current Development
 
----
+I’m strengthening the software and control foundations needed to build more capable robotic systems:
 
-## 💼 Professional Experience
+- Linux and Git/GitHub workflows
+- Modern C++
+- Robotics fundamentals and control
+- ROS 2
+- Computer vision for robotics
 
-**Junior Mechanical Site Engineer — Intermaint Construction**
+## Opportunities & Contact
 
-Experience in heavy industrial projects involving:
+Interested in **graduate, internship, and junior opportunities** in robotics, AI engineering, computer vision, embedded systems, and mechatronics integration.
 
-- Mechanical installation
-- Commissioning
-- Maintenance
-- Hydraulic systems
-- Steel structures
-- Belt conveyors
-- Industrial equipment
-- Site coordination
-- Client communication
-- Technician coordination
-
----
-
-## 🎯 Career Focus
-
-I'm interested in opportunities involving:
-
-**Robotics • AI • Computer Vision • Embedded Systems • Industrial Automation • Industry 4.0 • Autonomous Systems**
-
-I'm particularly interested in building systems where **mechanical engineering, electronics, software, and AI work together.**
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: [Mohamed Elemawy](https://www.linkedin.com/in/mohamed-elemawy-974b47215/)
-- GitHub: [Emawy](https://github.com/Emawy)
+[LinkedIn](https://www.linkedin.com/in/mohamed-elemawy-974b47215/) · [GitHub](https://github.com/Emawy)
