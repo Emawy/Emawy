@@ -1,0 +1,3 @@
+cad/solidworks/*.SLDPRT binary
+cad/solidworks/*.SLDASM binary
+software/windows/*.exe binary
