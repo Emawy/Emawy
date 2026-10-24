@@ -68,12 +68,15 @@ Contributed to the design and development of a forced-flow wind tunnel, connecti
 ## Education & Training
 
 **B.Sc. in Mechatronics Engineering**  
-Arab Academy for Science, Technology & Maritime Transport — 2025
+Arab Academy for Science, Technology and Maritime Transport — 2025
 
-**Artificial Intelligence Diploma — Completed**  
-Training in machine learning, deep learning, Python tools, and software-engineering fundamentals.
+**Artificial Intelligence Diploma — Aitronix & Eduzah**  
+Completed training in machine learning, deep learning, computer vision, Python tools, and software-engineering fundamentals.
 
-**Additional training:** PLC and classic control, motor drive systems, automotive engineering, and SolidWorks.
+**PLC Basic Control Course — HA Consultant**  
+PLC fundamentals, ladder-logic programming, and motor-drive control, including start/stop, direction, and protection.
+
+**Additional training:** Automotive engineering and SolidWorks.
 
 ## Current Development
 
