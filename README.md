@@ -27,7 +27,7 @@ Developed a coffee-making automation project using a 6-DOF robotic arm, programm
 - Integrated servo control, ultrasonic sensing, and a relay-controlled water pump.
 - Worked on mechanical positioning, actuator calibration, and hardware integration.
 
-[Project documentation](projects/smart-barista/) — source code and media uploads pending.
+[Explore the project](projects/smart-barista/) — Arduino firmware, SolidWorks CAD, and Windows application uploaded; demo video to add.
 
 ### Forced-Flow Blower Wind Tunnel
 **Graduation Project · Mechanical Design · Flow Conditioning**
